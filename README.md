@@ -74,7 +74,7 @@ Some operations performed using SQL:
 ---
 
 ## 📸 Dashboard Preview
-
+ [ola dashboard] Screenshot 2025-11-23 122713.png
 
 
 ---
