@@ -74,7 +74,8 @@ Some operations performed using SQL:
 ---
 
 ## 📸 Dashboard Preview
- [ola dashboard] Screenshot 2025-11-23 122713.png
+![OLA Dashboard](https://raw.githubusercontent.com/sakshi846898/PhonePe-Digital-Transactions-Analysis/main/Screenshot%202025-11-23%20122713.png)
+
 
 
 ---
